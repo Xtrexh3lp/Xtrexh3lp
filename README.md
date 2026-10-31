@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <h1>Hi, I'm xtrexh3lp 👋</h1>
+  <h1>Hi, I'm Nwahiri-Godwin Tochukwu <span style="font-weight: normal; color: #888;">(Xtrex)</span> 👋</h1>
   <p><strong>Frontend Developer • Web Builder • Creative Coder</strong></p>
   <p><i>Building clean, responsive, and user-friendly interfaces that actually stand out. 🚀</i></p>
 </div>
@@ -21,7 +21,7 @@
 
 ## ⚡ About Me
 
-I'm a passionate **Frontend Developer** based and ready to build modern web applications, interactive web utilities, and sleek landing pages. I love turning complex ideas into simple, beautiful, and high-performing digital experiences.
+I'm **Nwahiri-Godwin Tochukwu**, also known online as **Xtrex**. I'm a passionate **Frontend Developer** dedicated to building modern web applications, interactive web utilities, and sleek landing pages. I love turning complex ideas into simple, beautiful, and high-performing digital experiences.
 
 - 🌐 **Portfolio Website:** [xtrexh3lp.github.io](https://xtrexh3lp.github.io/)
 - 💻 **Core Stack:** Responsive Web Design, UI/UX Implementation, Modern JavaScript & Web Tools
