@@ -1,32 +1,33 @@
-
 <!-- HEADER BANNER -->
 <div align="center">
   <h1>Hi, I'm xtrexh3lp 👋</h1>
   <p><strong>Frontend Developer • Web Builder • Creative Coder</strong></p>
-  <p>Building clean, responsive, and user-friendly interfaces.</p>
+  <p><i>Building clean, responsive, and user-friendly interfaces that actually stand out. 🚀</i></p>
 </div>
 
 ---
 
-<!-- SOCIAL & PORTFOLIO BADGES -->
+<!-- SOCIAL & CONTACT BADGES -->
 <div align="center">
 
   [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xtrexh3lp.github.io/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtrexh3lp)
   [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nwahiritochukwu17@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349059480632)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I am a passionate **Frontend Developer** dedicated to building modern web applications, interactive web utilities, and sleek landing pages. I enjoy turning complex ideas into simple, beautiful functional designs.
+I'm a passionate **Frontend Developer** based and ready to build modern web applications, interactive web utilities, and sleek landing pages. I love turning complex ideas into simple, beautiful, and high-performing digital experiences.
 
 - 🌐 **Portfolio Website:** [xtrexh3lp.github.io](https://xtrexh3lp.github.io/)
-- 💻 **Main Focus:** Responsive Web Design, UI/UX Implementation, Modern JavaScript & Web Tools
-- ✉️ **Contact:** [nwahiritochukwu17@gmail.com](mailto:nwahiritochukwu17@gmail.com)
-- ⚡ **Fun Fact:** I build functional web utilities and client applications!
+- 💻 **Core Stack:** Responsive Web Design, UI/UX Implementation, Modern JavaScript & Web Tools
+- 📱 **Direct Chat:** [Message me on WhatsApp](https://wa.me/2349059480632)
+- ✉️ **Email:** [nwahiritochukwu17@gmail.com](mailto:nwahiritochukwu17@gmail.com)
+- 💡 **Vibe:** I code seriously, experiment often, and love shipping clean products!
 
 ---
 
